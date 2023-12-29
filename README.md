@@ -3,4 +3,5 @@ I had an exciting internship associated with CodSoft where i have created these 
 
 1. portfolio website
 2. landing page
-3. simple calculator 
+3. simple calculator
+   
