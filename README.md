@@ -5,3 +5,5 @@ I had an exciting internship associated with CodSoft where i have created these 
 2. landing page
 3. simple calculator
    
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Skam111&theme=blue-green)
