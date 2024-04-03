@@ -6,4 +6,4 @@ I had an exciting internship associated with CodSoft where i have created these 
 3. simple calculator
    
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emad_Almagedy&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Emad-Almagedy&theme=blue-green)
